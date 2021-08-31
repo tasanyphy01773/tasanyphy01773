@@ -1,6 +1,6 @@
 ### Hi there, This is Tahmidul Azom Sany
 
-## I'm a Physicist and Climate Research(Data) Enthuastic!!
+## I'm a Physicist and Climate Research(Data) Enthusiastic!!
 - 🔭 Current Project: Tropical Cyclone BoB, ML Downscalling
 - 🔭 I work with Python on ML, DS, Computational Physics and Climate Data
 - 🌱 I’m currently learning everything
