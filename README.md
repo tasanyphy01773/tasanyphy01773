@@ -5,7 +5,7 @@
 - 🔭 I work with Python on ML, DS, Computational Physics and Climate Data
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other researcher on any climate data model
-- 🥅 2021 Goals: To be an expert in Python and ML
+- 🥅 2022 Goals: To be an expert in Python and ML 
 
 
 ### Connect with me:
