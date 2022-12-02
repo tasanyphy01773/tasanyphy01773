@@ -11,8 +11,11 @@ My current research/project: My undergraduate thesis project is on predicting ex
 ## Skills/Tools:
 
 Programming Languages: Python, R, Mathematica, C
+
 Python Packages: Cartopy, Metpy, Numpy, Pandas, Matplotlib, Tkinter
+
 Machine Learning: Scikit-learn, Keras, Tensorflow
+
 Other Skills: Linux, HPC, Latex, HTML, CSS, Excel, GIS, Remote Sensing.
 
 Email: tahmidulazomsany@gmail.com, tasanyphy01773@gmail.com 
