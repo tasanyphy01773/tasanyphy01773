@@ -9,14 +9,10 @@ I am a graduate student of the Department of Physics at Shahjalal University of 
 My current research/project: My undergraduate thesis project is on predicting extreme precipitation using Machine Learning techniques under the supervision of Dr. Tanvir Ahmed (Associate Professor, Department of Physics, SUST). I have worked on tropical cyclone activities in the Bay Of Bengal under global warming which is under review in the Journal of Climate titled “the role of tropical easterly jet on the Bay of Bengal's tropical cyclones: observed climatology and future projection”, under the supervision of Dr. Abdullah Al Fahad, (Climate Physicist, NASA GSFC). Currently, I am working on another project with Dr. Fahad to explore and improve seasonal to multiyear climate predictability with explainable machine learning models.
 
 ## Skills/Tools:
-
-Programming Languages: Python, R, Mathematica, C
-
-Python Packages: Cartopy, Metpy, Numpy, Pandas, Matplotlib, Tkinter
-
-Machine Learning: Scikit-learn, Keras, Tensorflow
-
-Other Skills: Linux, HPC, Latex, HTML, CSS, Excel, GIS, Remote Sensing.
+- 🧰 Programming Languages: Python, R, Mathematica, C
+- 🧰 Python Packages: Cartopy, Metpy, Numpy, Pandas, Matplotlib, Tkinter
+- 🧰 Machine Learning: Scikit-learn, Keras, Tensorflow, PyTorch
+- 🧰 Other Skills: Linux, HPC, Latex, HTML, CSS, Excel, GIS, Remote Sensing.
 
 Email: tahmidulazomsany@gmail.com, tasanyphy01773@gmail.com 
 
