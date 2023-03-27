@@ -1,7 +1,6 @@
 ### Hi there, This is Tahmidul Azom Sany
 - 🔭 Current Project: Seasonal Preditibility, Extreme Precipitation Prediction, Tropical Cyclone 
 - 🔭 My research interest is on Climate Dynamics, Machine learning for Climate science, Climate Modeling, Data Assimilation, Tropical Cyclone, Precipitation, Extreme Events
-- 🥅 2022 Goals: To be an expert in Python and ML (You can already call me an expert now).
 
 ## I'm a Climate Researcher and Physicist!!
 I am a graduate student of the Department of Physics at Shahjalal University of Science and Technology, Sylhet. I have more than two years of research experience in atmospheric physics and climate dynamics. I like using Python and Machine Learning techniques to analyze climate data and explore the physical science behind climate phenomena.
