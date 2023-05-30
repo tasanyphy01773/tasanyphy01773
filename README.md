@@ -3,7 +3,7 @@
 - 🔭 My research interest is on Climate Dynamics, Land-atmosphere interaction, Machine learning for Climate science, Climate Modeling, Data Assimilation, Tropical Cyclone, Precipitation, Extreme Events 
 
 ## I'm a Climate Researcher and Physicist!!
-I am a graduate student of the Department of Physics at Shahjalal University of Science and Technology, Sylhet. I have more than two years of research experience in atmospheric physics and climate dynamics. I like using Python and Machine Learning techniques to analyze climate data and explore the physical science behind climate phenomena.
+I am a graduate student of the Department of Physics at Shahjalal University of Science and Technology, Sylhet. Soon starting my PhD in Climate Dynamics in George Maosn University. I have more than two years of research experience in atmospheric physics and climate dynamics. I like using Python and Machine Learning techniques to analyze climate data and explore the physical science behind climate phenomena.
 
 My current research/project: My undergraduate thesis project is on predicting extreme precipitation using Machine Learning techniques under the supervision of Dr. Tanvir Ahmed (Associate Professor, Department of Physics, SUST). I have worked on tropical cyclone activities in the Bay Of Bengal under global warming which is under review in the Journal of Climate titled “the role of tropical easterly jet on the Bay of Bengal's tropical cyclones: observed climatology and future projection”, under the supervision of Dr. Abdullah Al Fahad, (Climate Physicist, NASA GSFC). Currently, I am working on another project with Dr. Fahad to explore and improve seasonal to multiyear climate predictability with explainable machine learning models.
 
