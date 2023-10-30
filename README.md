@@ -1,5 +1,5 @@
 ### Hi there, This is Tahmidul Azom Sany
-- 🔭 Current Project: Machine Learning General Climate Model, Land-Atmosphere interaction
+- 🔭 Current Projects: Machine Learning General Climate Model, Land-Atmosphere interaction
 - 🔭 My research interest is on Climate Dynamics, Land-atmosphere interaction, Machine learning for Climate science (XAI), Climate Modeling, Data Assimilation, Tropical Cyclone, Precipitation, Extreme Events 
 
 ## I'm a Climate Researcher and Physicist!!
