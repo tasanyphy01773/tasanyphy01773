@@ -5,7 +5,7 @@
 ## I'm a Climate Researcher and Physicist!!
 I am a PhD student of Climate Dynamics at George Mason University, VA, USA. I have more than two years of research experience in atmospheric physics and climate dynamics. I like using Python and Machine Learning techniques to analyze climate data and explore the physical science behind climate phenomena.
 
-My current research/project: My undergraduate thesis project is on predicting extreme precipitation using Machine Learning techniques under the supervision of Dr. Tanvir Ahmed (Associate Professor, Department of Physics, SUST). I have worked on tropical cyclone activities in the Bay Of Bengal under global warming which is under review in the Journal of Climate titled “the role of tropical easterly jet on the Bay of Bengal's tropical cyclones: observed climatology and future projection”, under the supervision of Dr. Abdullah Al Fahad, (Climate Physicist, NASA GSFC). Currently, I am working on another project with Dr. Fahad to explore and improve seasonal to multiyear climate predictability with explainable machine learning models.
+My current research/project: My current project is to Predict the track of a Tropical Cyclone for S2S prediction in the Bay of Bengal. I have also co-authored a research article about tropical cyclone activities in the Bay of Bengal under the influence of global warming, which was published in the Journal of Climate titled “The role of tropical easterly jet on the Bay of Bengal's tropical cyclones: observed climatology and future projection”, under the supervision of Dr. Abdullah Al Fahad, (Climate Physicist, NASA GSFC). 
 
 ## Skills/Tools:
 - 🧰 Programming Languages: Python, R, Mathematica, C
